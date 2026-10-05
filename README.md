@@ -1,7 +1,7 @@
 
   # PropTrack Property Management UI
 
-  This is a code bundle for PropTrack Property Management UI. The original project is available at https://www.figma.com/design/CgYgDsPmt7WaqGanoIsDUM/PropTrack-Property-Management-UI.
+  This is a code bundle for PropTrack Property Management UI. The original project is available at https://prop-track-user.vercel.app/
 
   ## Running the code
 
